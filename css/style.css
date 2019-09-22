@@ -1,0 +1,52 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+    padding-bottom: 20px;
+}
+.custom-navbar{
+    background-color: rgb(235, 204, 112);
+}
+
+.custom-section{
+    padding: 30px;
+}
+
+.custom-img{
+    width: 300px;
+    height: 300px;
+    margin-bottom: 20px;
+}
+
+.custom-img-servico{
+    width: 400px;
+    height: 250px;
+    margin-bottom: 20px;
+    
+}
+
+.custom-text{
+    width: 400px;
+    margin-left: 70px;
+}
+
+
+
+.custom-logo{
+    width: 150px;
+}
+
+.quem-somos-color{
+    background-color: rgb(145, 207, 231);
+    
+}
+
+.parceiros-color{
+    background-color: rgb(195, 195, 240);
+}
+
+.servicos-color{
+    background-color: rgb(156, 247, 220);
+}
+
